@@ -1,0 +1,6 @@
+import { a as buildAssetsURL } from '../routes/renderer.mjs';
+
+const player_vue_vue_type_style_index_0_scoped_2b59b763_lang = ".image-praise[data-v-2b59b763]{height:24px;margin-right:20px;position:relative;width:24px}.image-praise .praise-animate[data-v-2b59b763]{background:url(" + buildAssetsURL("praise02.5BHFMGKy.png") + ") no-repeat;background-position:0;background-size:cover;height:54px;left:50%;position:absolute;top:50%;transform:translate(-50%,-50%);width:54px}.image-praise .praise-leave[data-v-2b59b763]{background-position:0}.image-praise .praise-entry[data-v-2b59b763]{background-position:100%;transition:background 1s steps(28)}";
+
+export { player_vue_vue_type_style_index_0_scoped_2b59b763_lang as p };
+//# sourceMappingURL=player-styles-1.mjs-CQMAImer.mjs.map

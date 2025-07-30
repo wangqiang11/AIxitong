@@ -1,0 +1,4 @@
+const prompt_vue_vue_type_style_index_0_scoped_d1c71eed_lang = ".prompt_container[data-v-d1c71eed] .el-loading-spinner .circular{height:24px;width:24px}.prompt_container[data-v-d1c71eed] .el-loading-text{font-size:12px}.prompt_container[data-v-d1c71eed] .el-loading-mask{background-color:var(--el-bg-color-page)!important;border-radius:6px!important;z-index:2000}.prompt_container .tag-container[data-v-d1c71eed]{align-items:center;display:flex;gap:4px;justify-content:center;margin-bottom:10px}.prompt_container .tag[data-v-d1c71eed]{align-items:center;border:1px solid var(--el-color-primary-light-7);border-radius:5px;color:var(--el-color-primary);display:flex;font-size:12px;padding:5px 7px}";
+
+export { prompt_vue_vue_type_style_index_0_scoped_d1c71eed_lang as p };
+//# sourceMappingURL=prompt-styles-1.mjs-CcpQOnEZ.mjs.map

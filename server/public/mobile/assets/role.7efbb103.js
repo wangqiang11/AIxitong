@@ -1,0 +1,1 @@
+import{aK as t}from"./index-d6d2a33a.js";function a(){return t.get({url:"/chat.skill/categoryLists"})}function r(a){return t.get({url:"/chat.skill/mobileLists",data:a})}function i(a){return t.get({url:"/chat.skill/detail",data:a})}export{r as a,i as b,a as g};

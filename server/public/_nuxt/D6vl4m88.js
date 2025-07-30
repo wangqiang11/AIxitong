@@ -1,0 +1,1 @@
+import{b as r}from"./C3C96yZa.js";import{b as s}from"./D5LW44Rr.js";function p(){const{getChatConfig:i}=r(),t=!!i.support_file,e=s([]);return{isSupportFile:t,files:e,addFile:o=>{e.value=[...e.value,o]},removeFile:o=>{e.value=e.value.filter(l=>l.id!==o.id)},clear:()=>{e.value=[]}}}export{p as useSessionFiles};

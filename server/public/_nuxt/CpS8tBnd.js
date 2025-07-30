@@ -1,0 +1,1 @@
+import{_ as t}from"./DlAUqK2U.js";import{N as o,V as s,M as n}from"./D5LW44Rr.js";const r={},a={class:"panel h-full"};function c(e,l){return n(),o("div",a,[s(e.$slots,"default",{},void 0,!0)])}const f=t(r,[["render",c],["__scopeId","data-v-0572950b"]]);export{f as default};

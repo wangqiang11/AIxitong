@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-alert-tips": "../../../../../uni_modules/vk-uview-ui/components/u-alert-tips/u-alert-tips",
+    "u-switch": "../../../../../uni_modules/vk-uview-ui/components/u-switch/u-switch",
+    "u-form-item": "../../../../../uni_modules/vk-uview-ui/components/u-form-item/u-form-item",
+    "u-input": "../../../../../uni_modules/vk-uview-ui/components/u-input/u-input"
+  }
+}

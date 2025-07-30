@@ -1,0 +1,4 @@
+const index_vue_vue_type_style_index_0_scoped_3c8cc549_lang = ".el-tabs[data-v-3c8cc549] .el-tabs__item{font-size:var( --el-font-size-large)}";
+
+export { index_vue_vue_type_style_index_0_scoped_3c8cc549_lang as i };
+//# sourceMappingURL=index-styles-1.mjs-DKBfGWHX.mjs.map

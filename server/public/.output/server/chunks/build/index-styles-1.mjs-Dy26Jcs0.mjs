@@ -1,0 +1,4 @@
+const index_vue_vue_type_style_index_0_scoped_30a57f21_lang = ".custom-input[data-v-30a57f21]{width:100%}.custom-input[data-v-30a57f21]  .el-input__wrapper{background-color:var(--el-bg-color-page)}.custom-input[data-v-30a57f21]  .el-input__wrapper:not(.is-focus){box-shadow:none}.swiper[data-v-30a57f21]{--swiper-navigation-size:12px;--swiper-navigation-color:var(--el-bg-color)}.swiper[data-v-30a57f21]  .swiper-button-next,.swiper[data-v-30a57f21]  .swiper-button-prev{align-items:center;background:rgba(0,0,0,.3);border-radius:50%;bottom:10px;display:flex;height:28px;justify-content:center;top:auto;width:28px}.swiper[data-v-30a57f21]  .swiper-button-prev{left:50%;transform:translateX(-140%)}.swiper[data-v-30a57f21]  .swiper-button-next{right:50%;transform:translateX(140%)}";
+
+export { index_vue_vue_type_style_index_0_scoped_30a57f21_lang as i };
+//# sourceMappingURL=index-styles-1.mjs-Dy26Jcs0.mjs.map

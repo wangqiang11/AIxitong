@@ -1,0 +1,17 @@
+{
+  "component": true,
+  "usingComponents": {
+    "model-picker": "../../../../components/model-picker/model-picker",
+    "u-icon": "../../../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "chat-record-item": "../../../../components/chat-record-item/chat-record-item",
+    "uni-icons": "../../../../uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "chat-input": "../../../../components/chat-input/chat-input",
+    "z-paging": "../../../../node-modules/z-paging/components/z-paging/z-paging",
+    "l-watermark": "../../../../uni_modules/lime-watermark/components/l-watermark/l-watermark",
+    "u-modal": "../../../../uni_modules/vk-uview-ui/components/u-modal/u-modal",
+    "session-popup": "../../../components/session/popup",
+    "dialog-poster": "../../../components/dialog-poster/dialog-poster",
+    "problem-example": "./components/problem-example",
+    "problem-example-popup": "./components/problem-example-popup"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "navigationBarTitleText": "MJ绘画",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-empty": "../../../uni_modules/vk-uview-ui/components/u-empty/u-empty",
+    "tabbar": "../../../components/tabbar/tabbar",
+    "u-icon": "../../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "router-navigate": "../../../node-modules/uniapp-router-next/components/router-navigate/router-navigate",
+    "u-navbar": "../../../uni_modules/vk-uview-ui/components/u-navbar/u-navbar",
+    "u-form": "../../../uni_modules/vk-uview-ui/components/u-form/u-form",
+    "u-button": "../../../uni_modules/vk-uview-ui/components/u-button/u-button",
+    "prompt-com": "./components/prompt",
+    "uploader-picture": "./components/uploader-picture",
+    "mj-size": "./components/mj/mj-size",
+    "mj-model": "./components/mj/mj-model",
+    "mj-version": "./components/mj/mj-version",
+    "mj-styles": "./components/mj/mj-styles",
+    "mj-options": "./components/mj/mj-options"
+  }
+}

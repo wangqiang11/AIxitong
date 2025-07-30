@@ -1,0 +1,1 @@
+import{dv as r}from"./C3C96yZa.js";import{b as o,F as s}from"./D5LW44Rr.js";const f=()=>{const t=o(""),c=o(""),e=async()=>{try{const a=await r();t.value=a.key,c.value=a.image}catch(a){console.log("获取图形码失败=>",a)}};return s(e),{captchaKey:t,captchaImage:c,getCaptchaFn:e}};export{f as default};

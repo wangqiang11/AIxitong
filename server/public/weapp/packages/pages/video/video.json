@@ -1,0 +1,21 @@
+{
+  "navigationBarTitleText": "AI视频",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-icon": "../../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "router-navigate": "../../../node-modules/uniapp-router-next/components/router-navigate/router-navigate",
+    "u-navbar": "../../../uni_modules/vk-uview-ui/components/u-navbar/u-navbar",
+    "uv-picker": "../../../uni_modules/uv-picker/components/uv-picker/uv-picker",
+    "uv-button": "../../../uni_modules/uv-button/components/uv-button/uv-button",
+    "uv-subsection": "../../../uni_modules/uv-subsection/components/uv-subsection/uv-subsection",
+    "u-form": "../../../uni_modules/vk-uview-ui/components/u-form/u-form",
+    "u-button": "../../../uni_modules/vk-uview-ui/components/u-button/u-button",
+    "u-empty": "../../../uni_modules/vk-uview-ui/components/u-empty/u-empty",
+    "tabbar": "../../../components/tabbar/tabbar",
+    "prompt-com": "./components/prompt",
+    "video-size": "./components/video-size",
+    "video-style": "./components/video-style",
+    "uploader-picture": "./components/uploader-picture",
+    "form-item-wrap": "./components/form-item-wrap"
+  }
+}

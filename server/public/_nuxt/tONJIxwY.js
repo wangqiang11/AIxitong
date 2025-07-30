@@ -1,0 +1,1 @@
+var a=(d=>(d.SD="sd",d.MJ="mj",d.DALLE3="dalle3",d.DOUBAO="doubao",d))(a||{});const l={sd:"/draw/sd",mj:"/draw/mj",dalle3:"/draw/dalle",doubao:"/draw/doubao"};var t=(d=>(d.txt2img="txt2img",d.img2img="img2img",d.SCALE2D="scale2d",d))(t||{});const r={1:"文生图",2:"图生图",3:"选中放大",4:"选中变换"};export{l as DrawLink,a as DrawModeEnum,r as DrawResultTypeEnum,t as DrawTypeEnum};

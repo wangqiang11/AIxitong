@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "u-loading": "../../../../uni_modules/vk-uview-ui/components/u-loading/u-loading",
+    "u-tag": "../../../../uni_modules/vk-uview-ui/components/u-tag/u-tag",
+    "u-input": "../../../../uni_modules/vk-uview-ui/components/u-input/u-input",
+    "u-icon": "../../../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "u-button": "../../../../uni_modules/vk-uview-ui/components/u-button/u-button"
+  }
+}

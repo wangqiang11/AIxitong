@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "任务奖励",
+  "enablePullDownRefresh": true,
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "u-navbar": "../../../uni_modules/vk-uview-ui/components/u-navbar/u-navbar",
+    "u-icon": "../../../uni_modules/vk-uview-ui/components/u-icon/u-icon",
+    "u-image": "../../../uni_modules/vk-uview-ui/components/u-image/u-image",
+    "u-empty": "../../../uni_modules/vk-uview-ui/components/u-empty/u-empty",
+    "tabbar": "../../../components/tabbar/tabbar",
+    "page-status": "../../../components/page-status/page-status"
+  }
+}

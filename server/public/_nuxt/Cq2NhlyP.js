@@ -1,0 +1,1 @@
+function r(){return $request.get({url:"/search/example"})}function t(e){return $request.sse({url:"/search/query",params:e,method:"POST"})}function s(){return $request.get({url:"/search/config"})}function u(e){return $request.get({url:"/search/lists",params:e})}function a(e){return $request.get({url:"/search/detail",params:e})}export{a,r as b,u as c,s as g,t as p};

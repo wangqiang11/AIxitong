@@ -1,0 +1,4 @@
+const recharge_vue_vue_type_style_index_0_scoped_494a1cbe_lang = ".scrollbar[data-v-494a1cbe] .el-scrollbar__view{display:flex;flex-direction:column;height:100%;min-height:0}.recharge-lists[data-v-494a1cbe]{margin:10px -15px}.recharge-lists .recharge-item[data-v-494a1cbe]{background-color:var(--color-white);border:2px solid transparent;border-radius:12px;cursor:pointer;margin:8px 15px;padding:30px 20px;width:210px}:is(.dark .recharge-lists .recharge-item[data-v-494a1cbe]){background-color:var(--el-bg-color-page)}.recharge-lists .recharge-item.active[data-v-494a1cbe]{background:linear-gradient(90deg,rgba(112,195,236,.2),rgba(66,109,247,.2));border-color:#445df4}";
+
+export { recharge_vue_vue_type_style_index_0_scoped_494a1cbe_lang as r };
+//# sourceMappingURL=recharge-styles-1.mjs-B4hL1L0f.mjs.map

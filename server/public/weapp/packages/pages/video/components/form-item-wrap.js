@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../../common/vendor.js");if(!Array){e.resolveComponent("u-form-item")()}Math;const t=e.defineComponent({__name:"form-item-wrap",setup(t){const n=e.useAttrs();return(t,o)=>({a:e.p({...e.unref(n)})})}});wx.createComponent(t);

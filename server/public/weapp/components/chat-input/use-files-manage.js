@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js");exports.useFilesManage=function(){const l=e.ref([]);return{files:l,addFile:e=>{l.value=[...l.value,e]},removeFile:e=>{l.value=l.value.filter((l=>l.id!==e.id))},clear:()=>{l.value=[]}}};

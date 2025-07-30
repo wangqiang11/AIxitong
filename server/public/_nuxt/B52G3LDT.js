@@ -1,0 +1,1 @@
+import t from"./CmeVRslF.js";import o from"./DgBwxuLm.js";import{l as c,M as r,N as s,Z as e}from"./D5LW44Rr.js";const a={class:"flex"},f=c({__name:"center-top",setup(n){return(m,p)=>(r(),s("div",a,[e(t,{class:"mr-[20px]"}),e(o)]))}});export{f as _};
